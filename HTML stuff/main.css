@@ -1,0 +1,192 @@
+.cover {
+    max-width: auto;
+    max-height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: black; 
+    display: flex;
+    box-shadow: #000000;
+        
+}
+
+div.polaroid {
+    width: 100%;
+    background-color: white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  }
+  
+  img {width: 100%}
+  
+  div.container {
+    text-align: center;
+    padding: 0px 0px;
+}
+
+.nav {
+    color: white;
+    background-color: black;
+}
+
+link {
+    color: white;
+}
+
+
+.title {
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 18px;
+    font-family: Impact, Charcoal, sans-serif;
+    font-size: 30px;
+    letter-spacing: 2px;
+    word-spacing: 2px;
+    color: #000000;
+    font-weight: 700;
+    text-decoration: underline solid rgb(68, 68, 68);
+    font-style: italic;
+    font-variant: normal;
+    text-transform: capitalize;
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    max-height: auto;
+   
+}
+
+.button {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    border: none;
+    color: black;
+    background-color: #FFFFFF;
+    padding: 2px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    
+}
+
+
+#text {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    color: black;
+    
+
+}
+
+#text2 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    color: black;
+    background-color: rgb(211, 211, 211, 0.8);
+    border: 3px solid black;
+    margin-left: 200px;
+    margin-right: 200px;
+    
+}
+
+#text2-1 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: left;
+    color: black;
+    display: flex;
+    justify-content: flex-start;
+    background-color: rgb(211, 211, 211, 0.8);  
+    background-color: Hex	#FFFFFF;
+    border: 3px solid black;
+    text-align: justify;
+    padding-right: 10px;
+}
+
+#text3 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    color: black;
+    background-color: rgb(211, 211, 211, 0.8);
+    border: 3px solid black;
+    margin-left: 200px;
+    margin-right: 200px;
+    padding: 5px;
+    
+}
+
+#img {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 10px;
+    width: 900px;
+}
+#img:hover {
+    box-shadow: 0 0 2px 1px rgba(186, 0, 0, 0.849);
+    border: 1px solid red;
+}
+
+
+#imgs {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 10px;
+    width: 1000px;
+}
+#imgs:hover {
+    box-shadow: 0 0 2px 1px rgba(186, 0, 0, 0.849);
+    border: 1px solid red;
+}
+
+#img2 {
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 4px;
+    width: 350px;
+    
+}
+#img2:hover {
+    box-shadow: 0 0 2px 1px rgba(186, 0, 0, 0.849);
+    border: 1px solid red;
+}
+
+#img3 {
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 4px;
+    width: 2000px;
+}
+#img3:hover {
+    box-shadow: 0 0 2px 1px rgba(186, 0, 0, 0.849);
+    border: 1px solid red;
+}
+
+#img4 {
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 4px;
+    width: 500px;
+}
+#img4:hover {
+    box-shadow: 0 0 2px 1px rgba(186, 0, 0, 0.849);
+    border: 1px solid red;
+}
+
+#profile {
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 4px;
+    width: 150px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+body {
+    background-image: url("https://i.pinimg.com/originals/a8/43/6c/a8436c0f2ef2441d8e0ebab9f5abcd6d.jpg");
+    background-repeat: repeat;
+    background-color: white;
+    max-height: auto;
+    max-width: auto;
+    overflow: scroll;
+   }
