@@ -162,6 +162,17 @@ link {
     border: 1px solid red;
 }
 
+#img4 {
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 4px;
+    width: 500px;
+}
+#img4:hover {
+    box-shadow: 0 0 2px 1px rgba(186, 0, 0, 0.849);
+    border: 1px solid red;
+}
+
 #profile {
     border: 1px solid #ddd;
     border-radius: 5px;
